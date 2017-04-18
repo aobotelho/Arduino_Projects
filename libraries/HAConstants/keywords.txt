@@ -1,0 +1,44 @@
+###########################################
+# Syntax Coloring Map For HAConstants.h
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+HAConst	KEYWORD1
+HAConstants	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+formatTopic	KEYWORD2
+getStatusTopic	KEYWORD2
+getStatusCallback	KEYWORD2
+getDiscoverTopic	KEYWORD2
+getDiscoverCallback	KEYWORD2
+getUpdateTopic	KEYWORD2	
+getResetTopic	KEYWORD2
+getRegisterPayload	KEYWORD2
+setVals		KEYWORD2
+getMQTTIP	KEYWORD2
+getMQTTPort	KEYWORD2
+getCloudMQTTIP	KEYWORD2
+getCloudMQTTPort	KEYWORD2
+getCloudMQTTUser	KEYWORD2
+getCloudMQTTPass	KEYWORD2
+getCloudMQTTTopic	KEYWORD2
+###########################################
+# Constants (LITERAL1)
+###########################################
+light1	LITERAL1
+light2	LITERAL1
+light3	LITERAL1
+light4	LITERAL1
+singleSwitch	LITERAL1
+doubleSwitch	LITERAL1
+nodeON	LITERAL1
+nodeOFF	LITERAL1
+nodeIN	LITERAL1
+nodeOUT	LITERAL1
+nodeNA	LITERAL1
